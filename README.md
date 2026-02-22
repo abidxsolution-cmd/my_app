@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Backend
+
+A backend API has been added under `backend/` for deployment alongside your website.
+See `backend/README.md` for setup and API usage.
